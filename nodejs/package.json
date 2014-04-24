@@ -18,5 +18,8 @@
 		"type": "git",
 		"url": "https://github.com/enove/Chimera.git"
 	},
-	"main": ""
+	"main": "",
+	"dependencies": {
+		"sjcl": "1.0.0"
+	}
 }
