@@ -1,0 +1,22 @@
+﻿{
+	"name": "Chimera",
+	"version": "0.0.1",
+	"description": "Kerberos' Less Dramatic Little Brother",
+	"keywords": ["chimera", "kerberos", "authentication", "authorization", "stateless", "sessionless", "security", "protocol"],
+	"homepage": "https://github.com/enove/Chimera",
+	"bugs": {
+		"url": "https://github.com/enove/Chimera/issues",
+		"email": "micah@enove.co"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Micah Henning",
+		"email": "micah@enove.co",
+		"url": "http://micah.la"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/enove/Chimera.git"
+	},
+	"main": ""
+}
